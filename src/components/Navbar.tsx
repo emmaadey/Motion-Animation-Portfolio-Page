@@ -1,7 +1,7 @@
-import linkedin from "../assets/images/linkedin.png";
-import medium from "../assets/images/medium.png";
-import twitter from "../assets/images/twitter.png";
-import gmail from "../assets/images/gmail.png";
+import linkedin from "../assets/images/icons/linkedin.png";
+import medium from "../assets/images/icons/medium.png";
+import twitter from "../assets/images/icons/twitter.png";
+import gmail from "../assets/images/icons/gmail.png";
 import { motion } from "motion/react";
 import Sidebar from "./sidebar/Sidebar";
 const Navbar = () => {
